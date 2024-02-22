@@ -1,4 +1,4 @@
-from main import in_order
+from check import in_order
 
 def test_passed():
     nums = [5, 6, 7, 8, 10]
