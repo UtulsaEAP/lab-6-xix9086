@@ -5,7 +5,7 @@ import unittest
 from unittest.mock import patch
 
 # Import the function from the main module
-from main import calculate_car_wash_price
+from mai import calculate_car_wash_price
 
 class TestCalculateCarWashPrice(TestCase):
     def setUp(self):
