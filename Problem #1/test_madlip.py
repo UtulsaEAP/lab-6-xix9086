@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 from io import StringIO
-from main import food_input
+from madlip import food_input
 
 class TestFoodInput(unittest.TestCase):
     @patch("builtins.input", side_effect=["cars 99", "quit 0"])
