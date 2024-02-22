@@ -1,5 +1,5 @@
 import unittest
-from main import check_palindrome
+from Palindrome import check_palindrome
 import io
 import unittest.mock
 
