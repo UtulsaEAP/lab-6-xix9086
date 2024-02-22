@@ -1,5 +1,5 @@
 import unittest
-from main import process_input
+from mainimport process_input
 
 class TestProcessInput(unittest.TestCase):
     def test_case_1(self):
