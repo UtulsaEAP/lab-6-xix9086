@@ -1,5 +1,5 @@
 import unittest
-from main import process_and_print
+from filter import process_and_print
 
 class TestProcessAndPrint(unittest.TestCase):
     def test_positive_input(self):
