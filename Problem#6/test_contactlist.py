@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from mai import process_user_contacts
+from main import process_user_contacts
 
 class TestProcessUserContacts(unittest.TestCase):
 
