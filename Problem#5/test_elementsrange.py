@@ -1,5 +1,5 @@
 import unittest
-from mai import filter_and_print_range
+from main import filter_and_print_range
 
 class TestFilterAndPrintRange(unittest.TestCase):
     def test_first_input(self):
